@@ -21,9 +21,9 @@ Programming for Data Analysis - Semester 2 -  2021
 
 - Data Analysis Notebook
   - Review of Datasets
-  - Investiagtion of Dataset choosen
-  - PLotting 
-  - Numerical review
+  - Investigation of Dataset Choosen
+  - Plotting 
+  - Numerical Review
   - Simulation of Data
 
 <br/>
@@ -31,7 +31,7 @@ Programming for Data Analysis - Semester 2 -  2021
 ***
 ## Repository Contents
 
-
+![atl text](Images/Filing_Cabinat.PNG)
 
 [1]
 
@@ -62,7 +62,11 @@ This repository includes:
 
 ## Purpose of this Repository
 
+The purpose of this respository is to investigate a real world dataset, plot the data and simulate a random dataset matching the properties.
 
+I wanted to review a dataset of Human intereactions or Human events, I reviewed initial datasets but choose a dataset based on the Birth Rate in Ireland from 2008 - 2020.
+
+This data set was broken down by years and also number of children per Monther. There is also data points for the number of Children born outside of Marriage and Civil Partnership.
 
 
 
@@ -97,8 +101,6 @@ It is also recommended that you should install the following along side Anaconda
 <br/>
 
 ### Accessing Git Hub
-
-
 
 
 When you have installed Anaconda and the additional required programs you can then fork github - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
