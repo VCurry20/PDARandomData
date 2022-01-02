@@ -1,5 +1,7 @@
 # PDARandomData
-Programming for Data Analysis - Semester 2 -  2021
+Programming for Data Analysis
+
+- Semester 2 - 2021
 
 
 <br/>
@@ -21,7 +23,7 @@ Programming for Data Analysis - Semester 2 -  2021
 
 - Data Analysis Notebook
   - Review of Datasets
-  - Investigation of Dataset Choosen
+  - Investigation of Dataset Chosen
   - Plotting 
   - Numerical Review
   - Simulation of Data
@@ -37,9 +39,9 @@ Programming for Data Analysis - Semester 2 -  2021
 
 This repository includes:
 
-- Data Analysis Notebook - jupyter notebook
+- Data Analysis Notebook - Jupyter notebook
 
-- Initial Searchs (Links) - jupyter notebook
+- Initial Searches (Links) - Jupyter notebook
 
 - requirements.txt 
 
@@ -62,11 +64,11 @@ This repository includes:
 
 ## Purpose of this Repository
 
-The purpose of this respository is to investigate a real world dataset, plot the data and simulate a random dataset matching the properties.
+The purpose of this repository is to investigate a realworld dataset, plot the data and simulate a random dataset matching the properties.
 
-I wanted to review a dataset of Human intereactions or Human events, I reviewed initial datasets but choose a dataset based on the Birth Rate in Ireland from 2008 - 2020.
+I wanted to review a dataset of Human interactions or Human events, I reviewed initial datasets but choose a dataset based on the Birth Rate in Ireland from 2008 - 2020.
 
-This dataset was broken down by years and also number of other previous born children per Monther. There is also data points for the number of Children born outside of Marriage and Civil Partnership.
+This dataset was broken down by years and number of other previous born children per Mother. There is also data points for the number of Children born outside of Marriage and Civil Partnership.
 
 
 <br/>
@@ -92,7 +94,7 @@ You can install this on your Windows, Mac or Linux OS
 
 (Please note that these specifications are for Windows and may differ for the other OS)
 
-It is also recommended that you should also install the following along side Anaconda:
+It is also recommended that you should also install the following alongside Anaconda:
 
 > [Visual Studio Code](https://code.visualstudio.com/) - This is a code editor and will allow you to create and view the code. 
 
@@ -100,10 +102,10 @@ It is also recommended that you should also install the following along side Ana
 > [CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line. Through this you can push commands to run the code on your device.
 
 
-> [Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
+> [Git](https://git-scm.com/) - Which will allow you to connect with Github and Fork this repository
 
 
-> [Github.com](https://github.com/) - this is where the repository is stored and from here you can acccess the repository. You can fork a copy of the respository to your Github account.
+> [Github.com](https://github.com/) - this is where the repository is stored and from here you can access the repository. You can fork a copy of the repository to your Github account.
 
 [3][4][5][6]
 
@@ -112,7 +114,7 @@ It is also recommended that you should also install the following along side Ana
 ### Accessing Git Hub
 
 
-When you have installed Anaconda and the additional required programs you can then fork or clone github - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
+When you have installed Anaconda and the additional required programs you can then fork or clone the Github repository - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
 
 None of these actions you make to this copy effects the repository.
 
@@ -128,9 +130,9 @@ Cloning:
 
 ![alt text](Images/Clone_https.PNG)
 
-Using the clone method you can save a copy of the repository to your own device. 
+Using this clone method you can save a copy of the repository to your own device. 
 
-Open CMDR :
+Open CMDR:
 
 Using commands `cd ` navigate to the folder you want to save the file.
 
@@ -146,17 +148,17 @@ You will now have a copy of the repository on your computer.
 
 ### Libraries Used
 
-For this project I have used the following librares within Python:
+For this project I have used the following libraries within Python:
 
 -  `NumPy`, which is numerical python
 
--  `Pandas`, which allows us to create dataframes and is a step up from the numerical capablities of `NumPy`
+-  `Pandas`, which allows us to create data frames and is a step up from the numerical capabilities of `NumPy`
 
 - `Matplotlib`, which I review and use for plotting
 
 - `Seaborn`, which is built on `Matplotlib` and expands on its capabilities
 
-- `Scipy`, which allows for use to analyise data
+- `Scipy`, which allows for data analysis
 
 - `Fitter`, which identifies distributions
 
@@ -164,7 +166,7 @@ For this project I have used the following librares within Python:
 
 ***
 
-If you do not either have the space on your device for this full Python download Install or are perhaps reviewing this Repository as a starting point for Python and Jupyter Notebookes, I have also included below the details to access the notebooks without downloading Anaconda.
+If you do not either have the space on your device for this full Python download Install or are perhaps reviewing this Repository as a starting point for Python and Jupyter notebooks, I have also included below the details to access the notebooks without downloading Anaconda.
 
 
 ***
@@ -175,9 +177,9 @@ If you do not either have the space on your device for this full Python download
 
 This project was completed using [Jupyter Notebooks](https://jupyter.org/).
 
-Jupyter can be launched via CMDR and works through your browser. This is an open source notebook that allows you to run your code, testing it, changing it and viewing the outputs in one place.
+Jupyter can be launched via CMDR and works through your browser. This is an opensource notebook that allows you to run your code, testing it, changing it and viewing the outputs in one place.
 
-It is visually clean, and allows for the users to view the code and outputs clearly and in one linear space.
+It is visually clean and allows for the users to view the code and outputs clearly and in one linear space.
 
 Navigate in your CMDR to the file you would like to open your notebook and type either Jupyter Notebook or Jupyter Lab.
 
@@ -185,16 +187,16 @@ These will launch a notebook via your browser - you can then create a new file -
 
 This is now an interactive Jupyter Notebook.
 
-When you are finished within the notebook you can use `CTRL S` - saving the file, and close the browser.
+When you are finished within the notebook you can use `CTRL S` - saving the file and close the browser.
 
 Then in CDMR use `CTRL C` to close the notebook browser which will continue to run in the background.
 
 
-Jupyter Notebooks are comprised of cells, in each cell there will be either code or markdown text (text outling the project /code). To click down through each cell, which also action each cell click `Shift` & `Enter`.
+Jupyter Notebooks are comprised of cells, in each cell there will be either code or markdown text (text outlining the project /code). To click down through each cell, which also action each cell click `Shift` & `Enter`.
 
-You will also find a range of options along the top of the notebook which provide additional funactionality (note there is slight differences between Jupyter notebook and lab).
+You will also find a range of options along the top of the notebook which provide additional functionality (note there is slight differences between Jupyter notebook and lab).
 
-By choosing Kernal - Restart & Run All, will clear all outputs and rerun the entire notebook.
+By choosing Kernel - Restart & Run All, will clear all outputs and rerun the entire notebook.
 
 When you view the notebook using this method you will be able to make changes to the code, change outputs and save this new version.
 
@@ -222,9 +224,9 @@ NBViewer offers a static overview of the notebook - here you can view the code b
 
 Binder offers users the choice to interact with the code without needing any installation of the above listed programs to your device. 
 
-You can change the code - run the code - amend the code. None of this will be saved and allows you the opportunity to test with no reprocussions.
+You can change the code - run the code - amend the code. None of this will be saved and allows you the opportunity to test with no repercussions.
 
-Also when accessing the notebooks using binder you can use the same commmands to work through the cells as those used directly in a Jupyter Notebook.
+Also when accessing the notebooks using binder you can use the same commands to work through the cells as those used directly in a Jupyter Notebook.
 
 This is a link to the overall project:
 
@@ -236,7 +238,7 @@ This is a link to the overall project:
 
 ### Action Binder Notebook
 
-When the notebook opens you will that the files within the repository are listed along the left handside:
+When the notebook opens you will that the files within the repository are listed along the left hand side:
 
 
 The .ipynb are the Jupyter notebooks - click on these files to open the notebook:
