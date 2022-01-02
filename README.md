@@ -66,8 +66,7 @@ The purpose of this respository is to investigate a real world dataset, plot the
 
 I wanted to review a dataset of Human intereactions or Human events, I reviewed initial datasets but choose a dataset based on the Birth Rate in Ireland from 2008 - 2020.
 
-This data set was broken down by years and also number of children per Monther. There is also data points for the number of Children born outside of Marriage and Civil Partnership.
-
+This dataset was broken down by years and also number of other previous born children per Monther. There is also data points for the number of Children born outside of Marriage and Civil Partnership.
 
 
 <br/>
@@ -81,7 +80,7 @@ This project was completed with a mix of both, Visual Studio Code, a code editor
 
 <br/>
 
-To install and use Python you can download it directly [here](https://www.anaconda.com/products/individual)
+> To install and use Python you can download it directly [here](https://www.anaconda.com/products/individual)
 
 You can install this on your Windows, Mac or Linux OS
 
@@ -93,30 +92,41 @@ You can install this on your Windows, Mac or Linux OS
 
 (Please note that these specifications are for Windows and may differ for the other OS)
 
-It is also recommended that you should install the following along side Anaconda
+It is also recommended that you should also install the following along side Anaconda:
 
-[Visual Studio Code](https://code.visualstudio.com/) - This is a code editor and will allow you to create and view the code. 
-
-
-[CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line. Through this you can push commands to run the code on your device.
+> [Visual Studio Code](https://code.visualstudio.com/) - This is a code editor and will allow you to create and view the code. 
 
 
-[Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
+> [CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line. Through this you can push commands to run the code on your device.
 
-[3][4][5]
+
+> [Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
+
+
+> [Github.com](https://github.com/) - this is where the repository is stored and from here you can acccess the repository. You can fork a copy of the respository to your Github account.
+
+[3][4][5][6]
 
 <br/>
 
 ### Accessing Git Hub
 
 
-When you have installed Anaconda and the additional required programs you can then fork github - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
+When you have installed Anaconda and the additional required programs you can then fork or clone github - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
 
-None of these actions you make to this forked copy effects the repository
+None of these actions you make to this copy effects the repository.
+
+Forking:
 
 ![alt text](Images/FrkGitHub.PNG)
 
-You will find this fork symbol on the top right of the repository. You can also star the repository allowing you to save the repository to come back to.
+You will find this fork symbol on the top right of the repository. From here you can make a copy of the repository - this saves to your own GitHub account. Now you have a copy of the repository to review on Github.
+
+You can also star the repository allowing you to save the repository to come back to.
+
+Cloning:
+
+
 
 [6][7]
 
