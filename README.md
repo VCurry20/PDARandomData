@@ -72,7 +72,14 @@ This data set was broken down by years and also number of children per Monther. 
 
 <br/>
 
-### Anaconda Install
+### Python Installation
+
+To complete this Repository I used Python, specifically Anaconda. Installing this allows you to use Python directly, with a code editor or with Jupyter Notebook.
+
+This project was completed with a mix of both, Visual Studio Code, a code editor and also Jupyter Notebooks, which were launched using command line, with the Notebook opening in an internet browser (this will open in your default browser).
+
+
+<br/>
 
 To install and use Python you can download it directly [here](https://www.anaconda.com/products/individual)
 
